@@ -1,0 +1,30 @@
+.myLi {
+    color: blue;
+}
+
+.myStyle {
+    list-style: none;
+    color: green;
+    line-height: 2em;
+    margin-bottom: 20px;
+}
+
+img {
+    width: 100px;
+    height: 105px;
+}
+
+#bookDetials {
+    width: 45%;
+    float: left;
+}
+
+#bookImages {
+    width: 45%;
+    float: right;
+}
+
+#bookImages li {
+    list-style: none;
+    margin-bottom: 9px;
+}
